@@ -1,0 +1,9 @@
+{
+  "name": "handlebars-scripts",
+  "description": "Handlebars helpers to easily insert popular third-party script blocks in a way that works with Meteor's quirks.",
+  "homepage": "https://github.com/aldeed/meteor-handlebars-scripts",
+  "author": "Eric Dobbertin (http://dairystatedesigns.com)",
+  "version": "0.1.0",
+  "git": "https://github.com/aldeed/meteor-handlebars-scripts.git",
+  "packages": {}
+}
