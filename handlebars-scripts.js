@@ -43,4 +43,5 @@ Handlebars.registerHelper("googlePlusOneScript", function() {
             s.parentNode.insertBefore(po, s);
         })();
     });
+    return "";
 });
