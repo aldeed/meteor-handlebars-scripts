@@ -13,6 +13,8 @@ Put a constant block at the top of your body element, and within that, use which
   {{#constant}}
     {{facebookScript "123456781234567"}}
     {{googlePlusOneScript}}
+    {{twitterWidgetsScript}}
+    {{addThisWidgetsScript "ra-12345abcde6789"}}
     {{googleTagManagerScript "GTM-XXXX"}}
   {{/constant}}
   <!-- More Content -->
