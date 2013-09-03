@@ -3,6 +3,6 @@ Package.describe({
 });
 
 Package.on_use(function(api) {
-  api.use(['underscore', 'templating']);
+  api.use(['underscore', 'templating', 'handlebars']);
   api.add_files(['handlebars-scripts.js'], ['client']);
 });
